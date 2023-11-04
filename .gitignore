@@ -7,6 +7,7 @@
 ImpInfo.txt
 
 
+
 # testing
 /frontend/coverage
 
@@ -15,6 +16,7 @@ ImpInfo.txt
 
 # misc
 /backend/config/config.env
+/backend/.env
 /frontend/.DS_Store
 /frontend/.env.local
 /frontend/.env.development.local
